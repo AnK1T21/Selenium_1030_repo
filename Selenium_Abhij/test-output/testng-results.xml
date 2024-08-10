@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Laptop Page IS Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Laptop Page IS Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Laptop Page IS Displayed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-07-24T16:47:49 IST" name="Suite" finished-at="2024-07-24T16:48:19 IST" duration-ms="30306">
+    <groups>
+    </groups>
+    <test started-at="2024-07-24T16:47:49 IST" name="Test1" finished-at="2024-07-24T16:47:58 IST" duration-ms="9263">
+      <class name="testng.TSForCBT">
+        <test-method is-config="true" signature="openBrowser(java.lang.String)[pri:0, instance:testng.TSForCBT@17f62e33]" started-at="2024-07-24T16:47:49 IST" name="openBrowser" finished-at="2024-07-24T16:47:54 IST" duration-ms="5533" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:testng.TSForCBT@17f62e33]" started-at="2024-07-24T16:47:54 IST" name="login" finished-at="2024-07-24T16:47:56 IST" duration-ms="1582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="clickOnLaptop()[pri:0, instance:testng.TSForCBT@17f62e33]" started-at="2024-07-24T16:47:56 IST" name="clickOnLaptop" finished-at="2024-07-24T16:47:57 IST" duration-ms="1115" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Laptop Page IS Displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- clickOnLaptop -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:testng.TSForCBT@17f62e33]" started-at="2024-07-24T16:47:57 IST" name="logout" finished-at="2024-07-24T16:47:58 IST" duration-ms="719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testng.TSForCBT@17f62e33]" started-at="2024-07-24T16:47:58 IST" name="closeBrowser" finished-at="2024-07-24T16:47:58 IST" duration-ms="258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testng.TSForCBT -->
+    </test> <!-- Test1 -->
+    <test started-at="2024-07-24T16:47:58 IST" name="Test2" finished-at="2024-07-24T16:48:10 IST" duration-ms="12243">
+      <class name="testng.TSForCBT">
+        <test-method is-config="true" signature="openBrowser(java.lang.String)[pri:0, instance:testng.TSForCBT@6caf0677]" started-at="2024-07-24T16:47:58 IST" name="openBrowser" finished-at="2024-07-24T16:48:06 IST" duration-ms="7795" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:testng.TSForCBT@6caf0677]" started-at="2024-07-24T16:48:06 IST" name="login" finished-at="2024-07-24T16:48:07 IST" duration-ms="1437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="clickOnLaptop()[pri:0, instance:testng.TSForCBT@6caf0677]" started-at="2024-07-24T16:48:07 IST" name="clickOnLaptop" finished-at="2024-07-24T16:48:08 IST" duration-ms="902" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Laptop Page IS Displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- clickOnLaptop -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:testng.TSForCBT@6caf0677]" started-at="2024-07-24T16:48:08 IST" name="logout" finished-at="2024-07-24T16:48:09 IST" duration-ms="760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testng.TSForCBT@6caf0677]" started-at="2024-07-24T16:48:09 IST" name="closeBrowser" finished-at="2024-07-24T16:48:10 IST" duration-ms="1346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testng.TSForCBT -->
+    </test> <!-- Test2 -->
+    <test started-at="2024-07-24T16:48:10 IST" name="Test3" finished-at="2024-07-24T16:48:19 IST" duration-ms="8715">
+      <class name="testng.TSForCBT">
+        <test-method is-config="true" signature="openBrowser(java.lang.String)[pri:0, instance:testng.TSForCBT@16eb3ea3]" started-at="2024-07-24T16:48:10 IST" name="openBrowser" finished-at="2024-07-24T16:48:15 IST" duration-ms="4172" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:testng.TSForCBT@16eb3ea3]" started-at="2024-07-24T16:48:15 IST" name="login" finished-at="2024-07-24T16:48:16 IST" duration-ms="1818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="clickOnLaptop()[pri:0, instance:testng.TSForCBT@16eb3ea3]" started-at="2024-07-24T16:48:16 IST" name="clickOnLaptop" finished-at="2024-07-24T16:48:18 IST" duration-ms="1191" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Laptop Page IS Displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- clickOnLaptop -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:testng.TSForCBT@16eb3ea3]" started-at="2024-07-24T16:48:18 IST" name="logout" finished-at="2024-07-24T16:48:19 IST" duration-ms="1193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testng.TSForCBT@16eb3ea3]" started-at="2024-07-24T16:48:19 IST" name="closeBrowser" finished-at="2024-07-24T16:48:19 IST" duration-ms="331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testng.TSForCBT -->
+    </test> <!-- Test3 -->
+  </suite> <!-- Suite -->
+</testng-results>
