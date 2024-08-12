@@ -27,6 +27,7 @@ public class AssSbiClkAndHold {
 		    File temp = driver.findElement(By.id("password")).getScreenshotAs(OutputType.FILE);
 		    File dest = new File("./ScreenShots/passwordImg"+".png");
 		    FileHandler.copy(temp, dest);
+		    FileHandler.copy(temp, dest);
 		    
 	}
 
